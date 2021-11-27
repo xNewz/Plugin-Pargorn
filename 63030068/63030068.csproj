@@ -99,7 +99,7 @@
     <Compile Include="ctlMain.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Plugin2.cs">
+    <Compile Include="Plugin_Pargorn.cs">
       <SubType>Code</SubType>
     </Compile>
     <EmbeddedResource Include="ctlMain.resx">
